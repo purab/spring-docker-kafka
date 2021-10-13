@@ -5,14 +5,19 @@ help taken : https://github.com/conduktor/kafka-stack-docker-compose
 export DOCKER_HOST_IP=127.0.0.1
 
 Run with:
+
 #docker-compose -f docker-compose.yml up
+
 stop docker images
+
 #docker-compose -f docker-compose.yml down
 
 Then run springboot application
+
 #mvn springboot:run
 
 For windows cmd use following command OR you can run app in IDE
+
 #mvn org.springframework.boot:spring-boot-maven-plugin:run
 
 Open postman
