@@ -1,6 +1,6 @@
 Please export your environment before starting the stack:
 
-help taken : https://github.com/conduktor/kafka-stack-docker-compose
+Ref taken : https://github.com/conduktor/kafka-stack-docker-compose
 
 export DOCKER_HOST_IP=127.0.0.1
 
